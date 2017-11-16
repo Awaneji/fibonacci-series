@@ -1,0 +1,10 @@
+/home/kudzanai/chue-chue/exam101/bin/Debug/netcoreapp2.0/exam101.deps.json
+/home/kudzanai/chue-chue/exam101/bin/Debug/netcoreapp2.0/exam101.runtimeconfig.json
+/home/kudzanai/chue-chue/exam101/bin/Debug/netcoreapp2.0/exam101.runtimeconfig.dev.json
+/home/kudzanai/chue-chue/exam101/bin/Debug/netcoreapp2.0/exam101.dll
+/home/kudzanai/chue-chue/exam101/bin/Debug/netcoreapp2.0/exam101.pdb
+/home/kudzanai/chue-chue/exam101/obj/Debug/netcoreapp2.0/exam101.csproj.CoreCompileInputs.cache
+/home/kudzanai/chue-chue/exam101/obj/Debug/netcoreapp2.0/exam101.AssemblyInfoInputs.cache
+/home/kudzanai/chue-chue/exam101/obj/Debug/netcoreapp2.0/exam101.AssemblyInfo.cs
+/home/kudzanai/chue-chue/exam101/obj/Debug/netcoreapp2.0/exam101.dll
+/home/kudzanai/chue-chue/exam101/obj/Debug/netcoreapp2.0/exam101.pdb
